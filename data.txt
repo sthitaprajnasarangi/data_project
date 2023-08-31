@@ -1,3 +1,0 @@
-this is data file
-
-i am learning devops
